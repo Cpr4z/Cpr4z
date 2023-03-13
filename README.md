@@ -101,7 +101,7 @@ width='120' height='100'>
 </p>
 <h3 align='left'>Contact me:</h3>
 <p align='left'>
-    <a href="https://vk.com/dxysio999" target="_blank">
+    <a href="https://vk.com/cpr4z" target="_blank">
         <img align="center"
             src="https://avatars.mds.yandex.net/i?id=0e31c54e2522133fb5d7412666b8f63e-5392430-images-thumbs&n=13"
             alt="qweqweqwe" height="40" width="40" />
