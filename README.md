@@ -9,19 +9,19 @@
 
 <a href = 'https://www.qt.io/' target='_blank' rel='norefferer'>
     <img src='https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d82b510c-1268-4d8a-85c1-41b6d44a6706.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4742'
-     alt='Qt' width='150' height='100' title='QT'> 
+     alt='Qt' width='150' height='120' title='QT'> 
 </a>
 
 <a href = 'https://www.boost.org/' target='_blank' rel='norefferer'>
     <img src='https://static.lwn.net/images/ns/boost.png'
-     alt='boost' width='150' height='100' title='Boost'> 
+     alt='boost' width='200' height='100' title='Boost'> 
 </a>
 
 
 
 <a href = 'https://cmake.org/' target='_blank' rel='norefferer'>
     <img src='https://earthly.dev/blog/assets/images/makefiles-on-windows/cmake.jpg'
-     alt='cmake' width='150' height='100' title='Cmake'> 
+     alt='cmake' width='165' height='100' title='Cmake'> 
 </a>
 
 <a href = 'https://en.wikipedia.org/wiki/Standard_Template_Library' target='_blank' rel='norefferer'>
