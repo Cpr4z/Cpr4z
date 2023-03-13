@@ -9,29 +9,29 @@
 
 <a href = 'https://www.qt.io/' target='_blank' rel='norefferer'>
     <img src='https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d82b510c-1268-4d8a-85c1-41b6d44a6706.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4742'
-     alt='Qt' width='100' height='100' title='QT'> 
+     alt='Qt' width='150' height='100' title='QT'> 
 </a>
 
 <a href = 'https://www.boost.org/' target='_blank' rel='norefferer'>
     <img src='https://static.lwn.net/images/ns/boost.png'
-     alt='boost' width='100' height='100' title='Boost'> 
+     alt='boost' width='150' height='100' title='Boost'> 
 </a>
 
 
 
 <a href = 'https://cmake.org/' target='_blank' rel='norefferer'>
     <img src='https://earthly.dev/blog/assets/images/makefiles-on-windows/cmake.jpg'
-     alt='cmake' width='100' height='100' title='Cmake'> 
+     alt='cmake' width='150' height='100' title='Cmake'> 
 </a>
 
 <a href = 'https://en.wikipedia.org/wiki/Standard_Template_Library' target='_blank' rel='norefferer'>
     <img src='https://avatars.mds.yandex.net/i?id=2a00000179fb635263ab07dd222cfb1df328-4600894-images-thumbs&n=13'
-     alt='stl' width='100' height='100' title='STL'> 
+     alt='stl' width='150' height='100' title='STL'> 
 </a>
 
 <a href = 'https://www.opengl.org/' target='_blank' rel='norefferer'>
     <img src='https://ded9.com/wp-content/uploads/2022/10/word-image-93766-3-1536x1152.jpeg'
-     alt='openGL' width='100' height='100' title='OPENGL'> 
+     alt='openGL' width='150' height='100' title='OPENGL'> 
 </a>
 
 <a href = 'https://www.linux.org/' target='_blank' rel='norefferer'>
@@ -51,10 +51,6 @@
 
 <h3 align='left'>Other technologies I'm familiar with:</h3>
 
-<a href='https://www.python.org' target="_blank" rel="noreferrer">
-    <img src= https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
-    alt="python" width="100" height="100" title="Python">
-</a>
 <a href='https://www.python.org' target="_blank" rel="noreferrer">
     <img src= https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg
     alt="python" width="100" height="100" title="Python">
