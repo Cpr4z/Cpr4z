@@ -48,7 +48,7 @@
 </a>
 <a href='https://opencv.org/' target='_blank' rel = 'norefferer'>
     <img src='https://robotclass.ru/wp-content/uploads/2017/06/logo.jpg'
-    width='110' height='110' alt='opencv' title='OpenCV'>
+    width='150' height='110' alt='opencv' title='OpenCV'>
 </a>
 
 
