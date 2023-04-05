@@ -46,6 +46,10 @@
     <img src='https://www.hobbymods.ru/up/article/image/it/databases/postgresql.png'
     width='110' height='110' alt='postgresql' title='Posgersql'>
 </a>
+<a href='https://opencv.org/' target='_blank' rel = 'norefferer'>
+    <img src='https://robotclass.ru/wp-content/uploads/2017/06/logo.jpg'
+    width='110' height='110' alt='opencv' title='OpenCV'>
+</a>
 
 
 
