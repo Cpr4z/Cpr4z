@@ -1,5 +1,5 @@
 <h1 align='center'>Hi, I'm Matvey Agarkov 👋</h1>
-<h1 align='center'>I'm a 3rd year student at BMSTU 🎓</h1>
+<h1 align='center'>I'm a 4th year student at BMSTU 🎓</h1>
 <h2 align='center'>I'm a junior C++ developer from Moscow</h2>
 <h3 align='left'>My current stack:</h3>
 <a href='https://isocpp.org/' target='_blank' rel='norefferer'>
