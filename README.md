@@ -68,12 +68,18 @@
 <p align='left'>
     <a href="https://vk.com/cpr4z" target="_blank">
         <img align="center"
-            src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fvkontakte&psig=AOvVaw3YwEJgdudLtUPLJEHysRjU&ust=1724513249051000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi6nt-8jIgDFQAAAAAdAAAAABAI"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/200px-VK_Compact_Logo_%282021-present%29.svg.png"
             alt="qweqweqwe" height="40" width="40" />
     </a>
     <a href="https://t.me/matvey_agarkov" target="_blank">
         <img align="center"
             src="https://proxym.net/wp-content/uploads/2014/09/kak-nastroit-proxy-Telegram.png"
             alt="qweqweqwe" height="40" width="40" />
+    </a>
+    <a>
+      <a href="https://www.linkedin.com/in/cpr4z/" target="_blank">
+        <img align="center"
+          src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s"
+          alt="qweqweqwe" height="40" width="40" />
     </a>
 </p>
