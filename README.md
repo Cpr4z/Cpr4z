@@ -68,10 +68,10 @@
 <p align='left'>
     <a href="https://vk.com/cpr4z" target="_blank">
         <img align="center"
-            src="https://avatars.mds.yandex.net/i?id=0e31c54e2522133fb5d7412666b8f63e-5392430-images-thumbs&n=13"
+            src="https://ru.wikipedia.org/wiki/VK_%28%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%29#/media/%D0%A4%D0%B0%D0%B9%D0%BB:VK_Compact_Logo_(2021-present).svg"
             alt="qweqweqwe" height="40" width="40" />
     </a>
-    <a href="https://t.me/Dxysio999" target="_blank">
+    <a href="https://t.me/matvey_agarkov" target="_blank">
         <img align="center"
             src="https://proxym.net/wp-content/uploads/2014/09/kak-nastroit-proxy-Telegram.png"
             alt="qweqweqwe" height="40" width="40" />
