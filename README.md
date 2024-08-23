@@ -68,7 +68,7 @@
 <p align='left'>
     <a href="https://vk.com/cpr4z" target="_blank">
         <img align="center"
-            src="https://ru.wikipedia.org/wiki/VK_%28%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F%29#/media/%D0%A4%D0%B0%D0%B9%D0%BB:VK_Compact_Logo_(2021-present).svg"
+            src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fvkontakte&psig=AOvVaw3YwEJgdudLtUPLJEHysRjU&ust=1724513249051000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMi6nt-8jIgDFQAAAAAdAAAAABAI"
             alt="qweqweqwe" height="40" width="40" />
     </a>
     <a href="https://t.me/matvey_agarkov" target="_blank">
