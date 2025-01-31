@@ -8,60 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cpr4z&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
-## Technologies Tir
-
-<table>
-  <tr>
-    <td style="background-color:#FF6B6B; color:white; text-align:center; width:60px; height:100px;"><b>S</b></td>
-    <td style="text-align:center; vertical-align:middle; height:100px;">
-      <img src="https://laptrinhcanban.com/c/lap-trinh-c-co-ban/gioi-thieu-ngon-ngu-c/su-khac-biet-giua-c-c++-csharp/c++.png" width="60"/>
-      <img src="https://static.lwn.net/images/ns/boost.png" width="60"/>
-      <img src="https://avatars.mds.yandex.net/i?id=2a00000179fb635263ab07dd222cfb1df328-4600894-images-thumbs&n=13" width="60"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color:#FFB26B; color:white; text-align:center; width:60px; height:100px;"><b>A</b></td>
-    <td style="text-align:center; vertical-align:middle; height:100px;">
-      <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/d82b510c-1268-4d8a-85c1-41b6d44a6706.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4742" width="60"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color:#FFD93D; color:white; text-align:center; width:60px; height:100px;"><b>B</b></td>
-    <td style="text-align:center; vertical-align:middle; height:100px;">
-      <img src="https://earthly.dev/blog/assets/images/makefiles-on-windows/cmake.jpg" width="60"/>
-      <img src="https://miro.medium.com/max/1400/1*6dWsxXX0Rif2VD-MHsHpNg.png" width="60"/>
-      <img src="https://miro.medium.com/max/870/1*L1wCPhdvK2guitLVNVCEtw.jpeg" width="60"/>
-      <img src="https://img.shields.io/badge/-SQL-003B57?logo=sql" width="60"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color:#9DDAC6; color:white; text-align:center; width:60px; height:100px;"><b>C</b></td>
-    <td style="text-align:center; vertical-align:middle; height:100px;">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="60"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color:#6FCF97; color:white; text-align:center; width:60px; height:100px;"><b>D</b></td>
-    <td style="text-align:center; vertical-align:middle; height:100px;">
-      <img src="https://avatars.mds.yandex.net/i?id=19427e719f7eda357336338835749144-5537533-images-thumbs&n=13" width="60"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color:#4A90E2; color:white; text-align:center; width:60px; height:100px;"><b>E</b></td>
-    <td style="text-align:center; vertical-align:middle; height:100px;">
-      <img src="https://avatars.mds.yandex.net/i?id=f4e85d5d0c417c00be144ae7b009f1ec-3780431-images-thumbs&n=13" width="60"/>
-    </td>
-  </tr>
-  <tr>
-    <td style="background-color:#BD10E0; color:white; text-align:center; width:60px; height:100px;"><b>F</b></td>
-    <td style="text-align:center; vertical-align:middle; height:100px;">
-      <img src="https://fuzeservers.ru/wp-content/uploads/4/7/b/47bf752c2f13d3f13363ea5b624bd2db.png" width="60"/>
-    </td>
-  </tr>
-</table>
-
-
 <h3 align='left'>Contact me:</h3>
 <p align='left'>
     <a href="https://vk.com/cpr4z" target="_blank">
