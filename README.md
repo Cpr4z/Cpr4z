@@ -15,7 +15,7 @@
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/200px-VK_Compact_Logo_%282021-present%29.svg.png"
             alt="qweqweqwe" height="40" width="40" />
     </a>
-    <a href="https://t.me/matvey_agarkov" target="_blank">
+    <a href="https://t.me/cpr4z" target="_blank">
         <img align="center"
             src="https://proxym.net/wp-content/uploads/2014/09/kak-nastroit-proxy-Telegram.png"
             alt="qweqweqwe" height="40" width="40" />
