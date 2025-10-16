@@ -1,5 +1,5 @@
 <h1 align='center'>Hi, I'm Matvey Agarkov 👋</h1>
-<h1 align='center'>I'm a first year master's student at BMSTU 🎓</h1>
+<h1 align='center'>I'm a second year master's student at BMSTU 🎓</h1>
 <h2 align='center'>I'm a C++ developer from Moscow</h2>
 <h2 align='center'>My statistics</h2>
 
